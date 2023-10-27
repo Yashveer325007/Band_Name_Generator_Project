@@ -5,5 +5,5 @@ city=input("Which city do you belong to?\n")
 #Asking user the name of their pet
 pet=input("What is name of your pet?\n")
 #combining city and pet name to create a name
-print("Your Band Name could be" + " " + pet + city)
+print("Your Band Name could be" + ' ' + pet + ' ' + city)
 
